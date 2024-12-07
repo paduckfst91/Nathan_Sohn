@@ -1,0 +1,39 @@
+I have a reference PDF detailing specific methodologies, and I need Python code to replicate every aspect of the analysis described. Here are the key requirements: 
+
+1. **Data Preparation and Collection**
+   - Extract the relevant data sources and preprocess the data exactly as outlined in the reference.
+   - Handle missing values, data formatting, and transformations as specified.
+   - If the reference uses external datasets, provide synthetic placeholders if the actual data is unavailable.
+
+2. **Methodology Implementation**
+   - Implement all methodologies described in the reference:
+     - Use the exact equations, statistical models, or machine learning algorithms detailed in the text.
+     - Include steps for any factor creation, data transformation, or feature engineering.
+   - Clearly document assumptions, parameter choices, and any deviations from the reference.
+
+3. **Section Organization**
+   - Divide the code into logical sections, separated into cells if using Jupyter Notebook.
+     - Cell 1: Data Import and Preprocessing
+     - Cell 2: Factor Construction or Model Definition
+     - Cell 3: Analysis and Regression
+     - Cell 4: Validation and Diagnostics
+     - Cell 5: Visualizations and Reporting
+
+4. **Visualization**
+   - Use **Plotly** for interactive and high-quality visualizations.
+   - Replicate all figures, plots, and charts in the reference while maintaining the same style and format.
+   - Ensure interactivity for better exploration of results.
+
+5. **Validation**
+   - Ensure outputs align with the key metrics, figures, or tables in the reference.
+   - Include tests for statistical significance, regression diagnostics, or hypothesis testing if applicable.
+
+6. **Additional Requirements**
+   - Use widely adopted libraries such as Pandas, NumPy, Scikit-learn, Statsmodels, and Plotly.
+   - Format outputs for clarity and annotate results where needed.
+   - Highlight assumptions or missing details in the reference that may require adjustments.
+
+**Expected Deliverable:**
+- Python code written in a modular, reusable, and well-documented format.
+- Results and visualizations matching the reference's outputs.
+- Clear explanation of any assumptions made or deviations from the reference.
